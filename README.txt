@@ -16,6 +16,4 @@ In phase 2,fetch,alu,decoding immediate and id.
 
    3.Nikitha mourya-2018csb1110- In phase1 sb format,S format.
    4.Abhinav -2018csb1064- I format in phase 1.
-   5.Ashna-2018csb1076- Helped in designing the hex- bin conversion bit of code,in phase 1.
- 
-Some Couldn't work in phase 2 due to the corona virus shut down and they will contribute more in phase 3 and 4 to make up for 1 and 2.
+  
